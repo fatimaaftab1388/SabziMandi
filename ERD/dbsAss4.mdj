@@ -2312,7 +2312,7 @@
 								"reference": {
 									"$ref": "AAAAAAGJKv5j2Ghip14="
 								},
-								"cardinality": "0..*"
+								"cardinality": "1..*"
 							}
 						},
 						{
@@ -2341,7 +2341,7 @@
 								"reference": {
 									"$ref": "AAAAAAGJKv4ce2hVDAs="
 								},
-								"cardinality": "0..*"
+								"cardinality": "1..*"
 							}
 						}
 					],
@@ -6912,7 +6912,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 671,
-									"top": 520,
+									"top": 528,
 									"width": 28.18994140625,
 									"height": 13,
 									"alpha": -4.617437017621387,
@@ -6931,7 +6931,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 517,
-									"top": 491,
+									"top": 499,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -6965,7 +6965,7 @@
 								"$ref": "AAAAAAGJRG1HJKcwOOA="
 							},
 							"lineStyle": 2,
-							"points": "492:512;832:512;832:472",
+							"points": "492:520;832:520;832:472",
 							"nameLabel": {
 								"$ref": "AAAAAAGJRN/ZHqtE/QY="
 							},
@@ -7407,7 +7407,7 @@
 								"reference": {
 									"$ref": "AAAAAAGJRG0tlKch4bU="
 								},
-								"cardinality": "0..*"
+								"cardinality": "1..*"
 							}
 						},
 						{
@@ -7437,7 +7437,7 @@
 								"reference": {
 									"$ref": "AAAAAAGJRG0MpKcUJrU="
 								},
-								"cardinality": "0..*"
+								"cardinality": "1..*"
 							}
 						}
 					]
@@ -9036,7 +9036,7 @@
 								"reference": {
 									"$ref": "AAAAAAGJRQc8qqxYqCA="
 								},
-								"cardinality": "0..*"
+								"cardinality": "1..*"
 							}
 						},
 						{
@@ -9065,7 +9065,7 @@
 								"reference": {
 									"$ref": "AAAAAAGJRQhbXqyWIFE="
 								},
-								"cardinality": "0..*"
+								"cardinality": "1..*"
 							}
 						}
 					]
